@@ -70,3 +70,9 @@ A interface amigável e intuitiva garante uma experiência divertida e dinâmica
 ## 📜 Licença
 
 Este projeto é de código aberto e pode ser usado livremente para fins de estudo e desenvolvimento.
+
+## Créditos
+
+Blanca: Desenvolvimento principal.
+
+Professor Márcio: Orientação técnica e sugestões de melhorias.
