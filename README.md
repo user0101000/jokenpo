@@ -76,3 +76,11 @@ Este projeto é de código aberto e pode ser usado livremente para fins de estud
 Blanca: Desenvolvimento principal.
 
 Professor Márcio: Orientação técnica e sugestões de melhorias.
+
+# Video testando o jogo
+
+
+
+https://github.com/user-attachments/assets/a4b298d7-e1a9-42dd-a770-1ab1798bc6fc
+
+
